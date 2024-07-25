@@ -1,9 +1,11 @@
 <template>
-  <main>
-    <h1>Home Page</h1>
-  </main>
+  <div>
+    <WelcomeSplash />
+  </div>
 </template>
 
-<script setup lang="ts"></script>
+<script setup>
+import WelcomeSplash from '@/components/WelcomeSplash.vue'
+</script>
 
 <style scoped></style>
