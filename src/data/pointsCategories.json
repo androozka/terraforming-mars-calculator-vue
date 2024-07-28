@@ -1,0 +1,8 @@
+[
+  { "id": "terraformRating", "name": "Terraform Rating", "short": "TR", "active": false },
+  { "id": "forestGreeneries", "name": "Forest / Greeneries", "short": "F/G", "active": false },
+  { "id": "citiesAndGreeneries", "name": "Cities & Greeneries", "short": "C+G", "active": false },
+  { "id": "milestones", "name": "Milestones", "short": "MS", "active": false },
+  { "id": "awards", "name": "Awards", "short": "A", "active": false },
+  { "id": "cards", "name": "Cards", "short": "C", "active": false }
+]

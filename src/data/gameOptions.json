@@ -1,0 +1,21 @@
+[
+  {
+    "id": "terraformingMars",
+    "name": "Terraforming Mars",
+    "expansions": [
+      { "id": "prelude", "name": "Prelude" },
+      { "id": "venusNext", "name": "Venus Next" },
+      { "id": "colonies", "name": "Colonies" },
+      { "id": "turmoil", "name": "Turmoil" }
+    ]
+  },
+  {
+    "id": "aresExpedition",
+    "name": "Ares Expedition",
+    "expansions": [
+      { "id": "discovery", "name": "Discovery" },
+      { "id": "foundations", "name": "Foundations" },
+      { "id": "crisis", "name": "Crisis" }
+    ]
+  }
+]

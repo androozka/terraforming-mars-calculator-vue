@@ -1,9 +1,11 @@
 <template>
-  <div>
-    <h1>Calculator Page</h1>
-  </div>
+  <v-container>
+    <CalculatorStepper />
+  </v-container>
 </template>
 
-<script setup lang="ts"></script>
+<script setup>
+import CalculatorStepper from '@/components/CalculatorStepper.vue'
+</script>
 
 <style scoped></style>
