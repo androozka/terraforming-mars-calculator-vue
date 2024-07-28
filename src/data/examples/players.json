@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Alex",
+    "color": "red",
+    "active": true,
+    "points": {
+      "terraformRating": 50,
+      "forestGreeneries": 12,
+      "citiesAndGreeneries": 8,
+      "milestones": 5,
+      "awards": 7,
+      "cards": 3
+    }
+  },
+  {
+    "name": "Bob",
+    "color": "blue",
+    "active": true,
+    "points": {
+      "terraformRating": 50,
+      "forestGreeneries": 12,
+      "citiesAndGreeneries": 8,
+      "milestones": 5,
+      "awards": 7,
+      "cards": 3
+    }
+  },
+  {
+    "name": "Cindy",
+    "color": "green",
+    "active": true,
+    "points": {
+      "terraformRating": 50,
+      "forestGreeneries": 12,
+      "citiesAndGreeneries": 8,
+      "milestones": 5,
+      "awards": 7,
+      "cards": 3
+    }
+  },
+  {
+    "name": "David",
+    "color": "yellow",
+    "active": true,
+    "points": {
+      "terraformRating": 50,
+      "forestGreeneries": 12,
+      "citiesAndGreeneries": 8,
+      "milestones": 5,
+      "awards": 7,
+      "cards": 3
+    }
+  },
+  {
+    "name": "Erica",
+    "color": "black",
+    "active": true,
+    "points": {
+      "terraformRating": 50,
+      "forestGreeneries": 12,
+      "citiesAndGreeneries": 8,
+      "milestones": 5,
+      "awards": 7,
+      "cards": 3
+    }
+  },
+  {
+    "name": "Frank",
+    "color": "white",
+    "active": true,
+    "points": {
+      "terraformRating": 50,
+      "forestGreeneries": 12,
+      "citiesAndGreeneries": 8,
+      "milestones": 5,
+      "awards": 7,
+      "cards": 3
+    }
+  }
+]
