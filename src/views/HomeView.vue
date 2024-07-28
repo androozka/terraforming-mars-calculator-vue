@@ -1,7 +1,7 @@
 <template>
-  <div>
+  <v-container>
     <WelcomeSplash />
-  </div>
+  </v-container>
 </template>
 
 <script setup>
